@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&display=swap');
+
+/* 
+font-family: 'Darker Grotesque', sans-serif;
+
+font-family: 'Nunito Sans', sans-serif; 
+*/
+
+.font-body-sm {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+}
+
+.font-body-md {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+}
+
+.font-body-lg {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+}
+
+.font-subtitle-xs {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 14px;
+  line-height: 120%;
+}
+
+.font-subtitle-sm {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 20px;
+  line-height: 140%;
+}
+
+.font-heading-xs {
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 24px;
+  line-height: 110%;
+
+  font-weight: 650;
+}
+
+.font-heading-sm {
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 32px;
+  line-height: 110%;
+
+  font-weight: 800;
+}
+
+.font-heading-md {
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 40px;
+  line-height: 100%;
+
+  font-weight: 800;
+}
+
+.font-heading-lg {
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 56px;
+  line-height: 100%;
+
+  font-weight: 800;
+}
+
+@media screen and (max-width: 768px) {
+  .font-subtitle-sm {
+    font-size: 16px;
+  }
+
+  .font-heading-xs {
+    font-size: 20px;
+  }
+
+  .font-heading-sm {
+    font-size: 24px;
+  }
+
+  .font-heading-md {
+    font-size: 32px;
+  }
+
+  .font-heading-lg {
+    font-size: 40px;
+  }
+}
